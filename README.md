@@ -30,12 +30,11 @@ Thirteen (13) clinical features:
 All libraries are available in Anaconda distribution of Python.
 
 # File Description
-heart_failure_clinical_records_dataset.csv: the dataset file.
-heart.py: contains the code of data exploration, preparation and modeling.
-heart.pkl: the classification model.
-app.py: Flask API that bind between the classification model and the web page.
-templates:
-heart.html, main1.html, main2.html: a web page that contains a form for heart disease testing.
+- heart_failure_clinical_records_dataset.csv: the dataset file.
+- heart.py: contains the code of data exploration, preparation and modeling.
+- heart.pkl: the classification model.
+- app.py: Flask API that bind between the classification model and the web page.
+- templates:heart.html, main1.html, main2.html: a web page that contains a form for heart disease testing.
 
 # Data Science Life Cycle Article
 https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1023-5
